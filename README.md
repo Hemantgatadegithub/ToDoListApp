@@ -2,7 +2,7 @@
 The Repository is having project work done for the Recruitment Process
 
 
-Please Download the Zip file from Files GitHub.
+# Please Download the Zip file from Files GitHub.
 
 # React + Vite
 
@@ -14,6 +14,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
+# How to Run the Backend
 * Backend
 
 Follow the steps to run the backend
@@ -28,6 +29,8 @@ ToDoBackend -> db ->
  $ npm init
  $ npm start
 
+
+# How to Run FrontEnd
 
 * Front-end
 
